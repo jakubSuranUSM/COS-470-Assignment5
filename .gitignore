@@ -1,0 +1,5 @@
+ColBERT/
+experiments/
+data/*
+!data/genre_lyrics.tsv
+!data/Test Songs/
